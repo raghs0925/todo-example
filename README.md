@@ -1,2 +1,3 @@
 # todo-example
-Files for the Todo example at bottlepy.org
+
+Files for the Todo web example at bottlepy.org
